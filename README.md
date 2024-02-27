@@ -47,7 +47,7 @@ If you encounter issues, have questions, or want to provide feedback, please don
 
 ## License
 
-This project is licensed under the [Apache License 2.0](LICENSE).
+This project is licensed under the [Mozilla Public License](LICENSE).
 
 ---
 
